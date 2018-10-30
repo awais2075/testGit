@@ -1,2 +1,2 @@
 # testGit
-learning how git actually workss
+learning how git actually works
